@@ -59,6 +59,9 @@ curl -sS -O https://raw.githubusercontent.com/Freeze7y/PortRedirectScript/main/P
 
 此项目使用 MIT 许可证。有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
 
+### 感谢你右上角的star🌟
+[![Stargazers over time](https://starchart.cc/Freeze7y/PortRedirectScript.svg)](https://starchart.cc/Freeze7y/PortRedirectScript)
+
 ## 贡献
 
 欢迎任何形式的贡献！请提出 [问题](https://github.com/Freeze7y/PortRedirectScript/issues) 或提交 [拉取请求](https://github.com/Freeze7y/PortRedirectScript/pulls)。
